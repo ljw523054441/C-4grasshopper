@@ -1,0 +1,8 @@
+C:\Users\52305\AppData\Roaming\Grasshopper\Libraries\Hellosparial.dll
+C:\Users\52305\AppData\Roaming\Grasshopper\Libraries\Hellosparial.pdb
+C:\Users\52305\source\repos\Hellosparial\obj\Debug\Hellosparial.csprojAssemblyReference.cache
+C:\Users\52305\source\repos\Hellosparial\obj\Debug\Hellosparial.Properties.Resources.resources
+C:\Users\52305\source\repos\Hellosparial\obj\Debug\Hellosparial.csproj.GenerateResource.cache
+C:\Users\52305\source\repos\Hellosparial\obj\Debug\Hellosparial.csproj.CoreCompileInputs.cache
+C:\Users\52305\source\repos\Hellosparial\obj\Debug\Hellosparial.dll
+C:\Users\52305\source\repos\Hellosparial\obj\Debug\Hellosparial.pdb
